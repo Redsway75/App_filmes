@@ -1,0 +1,15 @@
+C:\Users\JAVIER\Desktop\Projetos\c#\App_filmes\bin\Debug\net6.0\App_filmes.exe
+C:\Users\JAVIER\Desktop\Projetos\c#\App_filmes\bin\Debug\net6.0\App_filmes.deps.json
+C:\Users\JAVIER\Desktop\Projetos\c#\App_filmes\bin\Debug\net6.0\App_filmes.runtimeconfig.json
+C:\Users\JAVIER\Desktop\Projetos\c#\App_filmes\bin\Debug\net6.0\App_filmes.dll
+C:\Users\JAVIER\Desktop\Projetos\c#\App_filmes\bin\Debug\net6.0\App_filmes.pdb
+C:\Users\JAVIER\Desktop\Projetos\c#\App_filmes\obj\Debug\net6.0\App_filmes.csproj.AssemblyReference.cache
+C:\Users\JAVIER\Desktop\Projetos\c#\App_filmes\obj\Debug\net6.0\App_filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAVIER\Desktop\Projetos\c#\App_filmes\obj\Debug\net6.0\App_filmes.AssemblyInfoInputs.cache
+C:\Users\JAVIER\Desktop\Projetos\c#\App_filmes\obj\Debug\net6.0\App_filmes.AssemblyInfo.cs
+C:\Users\JAVIER\Desktop\Projetos\c#\App_filmes\obj\Debug\net6.0\App_filmes.csproj.CoreCompileInputs.cache
+C:\Users\JAVIER\Desktop\Projetos\c#\App_filmes\obj\Debug\net6.0\App_filmes.dll
+C:\Users\JAVIER\Desktop\Projetos\c#\App_filmes\obj\Debug\net6.0\refint\App_filmes.dll
+C:\Users\JAVIER\Desktop\Projetos\c#\App_filmes\obj\Debug\net6.0\App_filmes.pdb
+C:\Users\JAVIER\Desktop\Projetos\c#\App_filmes\obj\Debug\net6.0\App_filmes.genruntimeconfig.cache
+C:\Users\JAVIER\Desktop\Projetos\c#\App_filmes\obj\Debug\net6.0\ref\App_filmes.dll
